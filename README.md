@@ -1,4 +1,4 @@
-# Employee Management System (Java)
+# Employee Management Payroll System (Java)
 
 ## 📌 Project Overview
 The **Employee Management Payroll System** is a Java-based console application designed to manage different types of employees within an organization.  
