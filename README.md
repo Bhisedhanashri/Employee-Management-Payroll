@@ -34,3 +34,11 @@ This project demonstrates core **Object-Oriented Programming (OOP)** concepts us
 ---
 
 ## 📂 Project Structure
+Employee-Management-System
+│
+├── Employee.java
+├── FullTimeEmployee.java
+├── PartTimeEmployee.java
+├── Intern.java
+├── Department.java
+└── MainApp.java
